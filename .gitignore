@@ -1,0 +1,17 @@
+# Bağımlılıklar (Dependencies)
+/node_modules
+
+# Derleme (Build) çıktısı
+/dist
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ortam değişkenleri (Gizli kalmalı)
+.env
+.env.local
+
+# Mac/OS özel dosyaları
+.DS_Store
